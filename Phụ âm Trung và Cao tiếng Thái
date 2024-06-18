@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Các trò chơi học tập</title>
+</head>
+<body>
+    <h1>Các trò chơi học tập</h1>
+
+    <h2>Trò chơi 1</h2>
+    <iframe style="max-width:100%" src="https://wordwall.net/vi/embed/f0b9bac1a30f4a6cad781922cf5aa2da?themeId=1&templateId=3&fontStackId=12" width="1000" height="760" frameborder="0" allowfullscreen></iframe>
+
+    <h2>Trò chơi 2</h2>
+    <iframe style="max-width:100%" src="https://wordwall.net/vi/embed/2cd7cb07b82a4c628ec47297ac39dfc8?themeId=1&templateId=3&fontStackId=12" width="1000" height="760" frameborder="0" allowfullscreen></iframe>
+
+</body>
+</html>
